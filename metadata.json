@@ -1,0 +1,9 @@
+{
+  "name": "SafeStep - AI Visual Assistant",
+  "description": "A voice-first accessibility application for the visually impaired, providing object detection, distance estimation, OCR, and emergency SOS features powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
